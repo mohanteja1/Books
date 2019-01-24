@@ -158,6 +158,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## MACHINE LEARNING
 * [Machine learning coures by tom mitchel](www.cs.cmu.edu/~ninamf/courses/601sp15/video/1.html)-from cmu.edu
+* [beginner overview](https://machinelearningmastery.com/) -machinelearningmastery.com
+* [intel AI Academy](https://software.intel.com/en-us/ai-academy) 
 
 ## Tools
 
